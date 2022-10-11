@@ -1,4 +1,4 @@
-[[Header] (https://github.com/Goodiniwar/Goodiniwar/blob/main/assets/Header.png)]
+[![Header] (https://github.com/Goodiniwar/Goodiniwar/blob/main/assets/Header.png)]
 
 About me
 
