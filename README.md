@@ -2,6 +2,8 @@
 
 About me
 
+I am beginning qa engineer
+
 Latest videos from youtube
 
 Language and tools
