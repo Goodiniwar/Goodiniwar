@@ -1,5 +1,4 @@
-[![Header] (https://github.com/Goodiniwar/Goodiniwar/assets/Header.png)]
-
+![Header](Header.png)
 About me
 
 Latest videos from youtube
